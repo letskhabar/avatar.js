@@ -1,0 +1,19 @@
+{
+  "name": "avatar.js",
+  "version": "0.0.1",
+  "description": "avatar.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letskhabar/avatar.js.git"
+  },
+  "keywords": [
+    "Avatar"
+  ],
+  "author": "letskhabar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letskhabar/avatar.js/issues"
+  },
+  "homepage": "https://github.com/letskhabar/avatar.js#readme"
+}
